@@ -33,7 +33,7 @@
 
 1. **克隆仓库**
    ```bash
-   git clone https://github.com/fbxhn4hernancito8998-rgb/Gemini-Business.git
+   git clone https://github.com/Zooo-1/Gemini-Business.git
    cd Gemini-Business
    ```
 2. **运行环境配置脚本**
@@ -145,6 +145,7 @@ BASE_URL = "https://api.duckmail.sbs"
 ## 许可证
 
 MIT
+
 
 
 
