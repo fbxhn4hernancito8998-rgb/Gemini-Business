@@ -26,15 +26,14 @@
 ## 快速开始
 
 ### 环境要求
-
 - Python 3.10+
 - Chrome/Chromium 浏览器
 
 ### 安装步骤
 
 1. **克隆仓库**
-  ```
-   git clone https://github.com/fbxhn4hernancito8998-rgb/Gemini-Business.git](https://github.com/fbxhn4hernancito8998-rgb/Gemini-Business.git
+   ```bash
+   git clone https://github.com/fbxhn4hernancito8998-rgb/Gemini-Business.git
    cd Gemini-Business
    ```
 2. **运行环境配置脚本**
